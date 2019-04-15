@@ -11,5 +11,7 @@ public class MyServlet extends HttpServlet {
 		out.print("I am servlet<br/>");
 		
 		out.write("1o times of 10");
+		
+		out.print("I am new update");
 	}
 }
